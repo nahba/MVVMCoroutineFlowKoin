@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rootView"
+        type="id"/>
+    <item name="toolbar"
+        type="id"/>
+    <item name="container"
+        type="id"/>
+    <item name="progressBar"
+        type="id"/>
+    <item name="tapToRetryView"
+        type="id"/>
+    <item name="tapToRetryImage"
+        type="id"/>
+    <item name="tapToRetryMessage"
+        type="id"/>
+    <item name="transparentView"
+        type="id"/>
+    <item name="fragmentRootView"
+        type="id"/>
+    <item name="fab"
+        type="id"/>
+    <item name="titleView"
+        type="id"/>
+    <item name="textView"
+        type="id"/>
+    <item name="userInputView"
+        type="id"/>
+    <item name="etUser"
+        type="id"/>
+    <item name="btnFetch"
+        type="id"/>
+    <item name="recyclerView"
+        type="id"/>
+    <item name="imageViewCircle"
+        type="id"/>
+    <item name="imageView"
+        type="id"/>
+    <item name="textName"
+        type="id"/>
+    <item name="textDob"
+        type="id"/>
+    <item name="textBio"
+        type="id"/>
+</resources>

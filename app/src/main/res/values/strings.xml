@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GitHub</string>
+    <string name="click_me">GitHub UserName</string>
+    <string name="user_hint">UserName</string>
+    <string name="fetch">Fetch</string>
+    <string name="allowed_digits">abcdefghijklmnopqrstuvwxyz-._ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="error_no_internet_connectivity">No internet connection. Please check your internet settings and try again.</string>
+    <string name="error_oops_something_went_wrong">Oops! Something went wrong, please try again&#8230;</string>
+    <string name="error_repo_not_found">Repository not found</string>
+</resources>
